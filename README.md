@@ -6,3 +6,6 @@ Awesome Archive of Algorand Apps
 
 ## Templates of TEAL
 - https://github.com/randlabs/algorand-teal-templates
+
+## Games on Algorand
+- https://github.com/cusma/algonim
