@@ -5,6 +5,7 @@ Awesome Archive of Algorand Apps
 
 ### NFT Marketplace
 - https://developer.algorand.org/tutorials/creating-an-nftmarketplace/
+- https://techonda.medium.com/nfts-on-algorand-an-insiders-guide-with-actionable-tips-91bb10307565
 
 ## Assets
 
