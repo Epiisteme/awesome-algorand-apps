@@ -5,6 +5,7 @@ Awesome Archive of Algorand Apps
 
 ### Development
 - https://developer.algorand.org/tutorials/creating-an-nftmarketplace/
+- https://developer.algorand.org/solutions/minting-nfts-on-algorand-using-ipfs/
 - https://techonda.medium.com/nfts-on-algorand-an-insiders-guide-with-actionable-tips-91bb10307565
 
 ## Assets
