@@ -6,5 +6,12 @@ Awesome Archive of Algorand Apps
 ### NFT Marketplace
 - https://developer.algorand.org/tutorials/creating-an-nftmarketplace/
 
+## Assets
+
 ### Toolkits
 - https://github.com/algorand/sandbox
+
+## Standards
+
+### Tokens
+- https://github.com/algorandfoundation/ARCs
