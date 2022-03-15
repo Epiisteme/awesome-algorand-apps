@@ -16,3 +16,8 @@ Awesome Archive of Algorand Apps
 
 ### Tokens
 - https://github.com/algorandfoundation/ARCs
+
+## Reports
+
+### NFTs
+- https://www.benzinga.com/events/crypto-fest/wp-content/uploads/2021/08/NFTs-on-Algorand-Benzinga0821-compressed.pdf
